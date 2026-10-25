@@ -9,7 +9,7 @@
 <br/>
 
 <!-- SOCIAL BADGES: replace the YOUR_ placeholders with your real links -->
-<a href="www.linkedin.com/in/hassaan-khurram-84162612a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/hassaan-khurram-84162612a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Hassaan@saadjamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://tryhackme.com/p/hassaan659"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 <a href="https://github.com/DankHassaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -26,13 +26,13 @@
 
 <!-- Edit this in your own voice. Keep it to 100 to 150 words. Answer three things: why you got into cyber, what you have built or solved, and what role you want. -->
 
-I am a cybersecurity graduate with a Bachelor of Cybersecurity (ACS Endorsed) from La Trobe University and hands on experience from a SOC Analyst internship at One Step Group, a managed security service provider.
+I am a cybersecurity graduate with a Bachelor of Cybersecurity (ACS Endorsed) from La Trobe University and hands-on experience as a SOC Analyst intern at One Step Group, a managed security service provider.
 
 YOUR_STORY: One or two sentences on why you got into cybersecurity.
 
 YOUR_HIGHLIGHT: One or two sentences on something you built, investigated or solved that you are proud of.
 
-I am looking for an entry-level role as a SOC Analyst or Cybersecurity Analyst, where I can keep learning while helping protect real organisations.
+I am looking for an entry-level SOC Analyst or Cybersecurity Analyst role where I can keep learning while helping protect real organisations.
 
 📍 Melbourne, VIC &nbsp;|&nbsp; 🎓 La Trobe University 2026 &nbsp;|&nbsp; 🛡️ One Step Group (SOC Analyst Intern)
 
@@ -118,7 +118,7 @@ I am looking for an entry-level role as a SOC Analyst or Cybersecurity Analyst, 
 
 ## GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME in both links. These cards can occasionally load slowly, that is normal. -->
+<!-- Replace YOUR_GITHUB_USERNAME in both links. These cards can occasionally load slowly; that is normal. -->
 
 <div align="center">
 
@@ -133,6 +133,6 @@ I am looking for an entry-level role as a SOC Analyst or Cybersecurity Analyst, 
 
 **Always learning. Always curious. Let's connect.** 🛡️
 
-<a href="www.linkedin.com/in/hassaan-khurram-84162612a"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/hassaan-khurram-84162612a"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn"/></a>
 
 </div>
