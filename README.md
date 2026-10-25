@@ -3,6 +3,9 @@
 <!-- BANNER: change the colour (00D4FF) or the lines if you like -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hassaan+Khurram;Cybersecurity+Graduate;SOC+Analyst+%7C+Security+Analyst+%7C+GRC" alt="Typing banner" />
 
+<!-- HEADER: static CV style title -->
+<h1 align="center">Hassaan Khurram</h1>
+<h3 align="center">Cybersecurity Graduate | L1 SOC Analyst</h3>
 <br/>
 
 <!-- SOCIAL BADGES: replace the YOUR_ placeholders with your real links -->
@@ -13,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open_to_Work-Entry_Level_Security_Roles-2ea44f?style=for-the-badge" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Open_to_Work-_Junior/Level1_SOC_Roles-2ea44f?style=for-the-badge" alt="Open to Work"/>
 
 </div>
 
@@ -29,9 +32,9 @@ YOUR_STORY: One or two sentences on why you got into cybersecurity.
 
 YOUR_HIGHLIGHT: One or two sentences on something you built, investigated or solved that you are proud of.
 
-I am looking for an entry level role as a SOC Analyst, Security Analyst or in GRC, where I can keep learning while helping protect real organisations.
+I am looking for an entry-level role as a SOC Analyst or Cybersecurity Analyst, where I can keep learning while helping protect real organisations.
 
-📍 YOUR_LOCATION &nbsp;|&nbsp; 🎓 La Trobe University &nbsp;|&nbsp; 🛡️ One Step Group (SOC Analyst Intern)
+📍 Melbourne, VIC &nbsp;|&nbsp; 🎓 La Trobe University 2026 &nbsp;|&nbsp; 🛡️ One Step Group (SOC Analyst Intern)
 
 ---
 
@@ -95,9 +98,9 @@ I am looking for an entry level role as a SOC Analyst, Security Analyst or in GR
 | Status | Certification or Path |
 |---|---|
 | ✅ Completed | Bachelor of Cybersecurity (ACS Endorsed), La Trobe University |
-| ✅ Completed | YOUR_CERT |
-| 🔄 In progress | YOUR_CERT_OR_TRYHACKME_PATH |
-| 🎯 Planned | YOUR_NEXT_CERT |
+| ✅ Completed | Microsoft SC 900, TryHackMe SOC Labs |
+| 🔄 In progress | BTJL by Centri |
+| 🎯 Planned | Microsoft SC 200, BTL1, GRC Mastery with ISO 27001 |
 
 ---
 
@@ -119,8 +122,8 @@ I am looking for an entry level role as a SOC Analyst, Security Analyst or in GR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DankHassaan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankHassaan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 </div>
 
@@ -130,6 +133,6 @@ I am looking for an entry level role as a SOC Analyst, Security Analyst or in GR
 
 **Always learning. Always curious. Let's connect.** 🛡️
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn"/></a>
+<a href="www.linkedin.com/in/hassaan-khurram-84162612a"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn"/></a>
 
 </div>
