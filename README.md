@@ -10,7 +10,7 @@
 <a href="https://tryhackme.com/p/hassaan659"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 <a href="https://github.com/DankHassaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Open_to_Work-Junior_/_Cyber_/_SOC_Analyst_Roles-2ea44f?style=for-the-badge" alt="Open to Work"/>
 
