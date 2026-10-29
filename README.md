@@ -5,7 +5,7 @@
 
 <!-- HEADER: static CV style title -->
 <h1 align="center">Hassaan Khurram</h1>
-<h3 align="center">SOC Analyst | Microsoft Sentinel | KQL | Azure Fundamentals | Subclass 485 Visa (Full Work Rights)/h3>
+<h3 align="center">SOC Analyst | Microsoft Sentinel | KQL | Azure Fundamentals | Subclass 485 Visa (Full Work Rights) </h3>
 <br/>
 
 <!-- SOCIAL BADGES: replace the YOUR_ placeholders with your real links -->
